@@ -7,6 +7,7 @@
   <author href="http://m.gdnonline.com" email="binju@northstar.bh">
     Binju Paul
   </author>
+  <access origin="*" />
     <content src="www/index.html" />
     <preference name="permissions" value="none" />
     <preference name="orientation" value="portrait" />
